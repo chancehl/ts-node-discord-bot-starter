@@ -1,5 +1,5 @@
 {
-  "name": "[BOT-NAME-HERE]",
+  "name": "ts-node-discord-bot-starter",
   "version": "1.0.0",
   "description": "A discord bot",
   "main": "index.js",
